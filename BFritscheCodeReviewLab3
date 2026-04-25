@@ -1,0 +1,8 @@
+Is the code generally readable and well-documented?
+- The code is well organized into code blocks and commented with clear descriptions of how everything works to make the program function.
+Did you find any software defects?
+- No, the program ran without error.
+What was one way that their solution differed from yours?
+- Au’rias put her states and information into an array to display on the state info form, whereas I just displayed mine from the database created and displayed it from the main form.
+Do you have any other constructive comments for the author?
+- This is a really well done program, and I don’t have anything else to add. Good job on this! I also like the message you get when you close the program.
